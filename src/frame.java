@@ -12,7 +12,7 @@ public class frame extends JFrame implements ActionListener {
     
     public static void main(String[] args) {
         
-        frame frame = new frame ("Menü");
+        frame frame = new frame ("Menue");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(400,300);
         frame.setResizable(false);
